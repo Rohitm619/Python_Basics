@@ -1,0 +1,1 @@
+mysqlpython is a file in 'python_programs' folder in which you will find how to use mysql in python program in simple way and how to insert table and how to connect the mysql to python. Please note, you are expected to know mysql queries already.
